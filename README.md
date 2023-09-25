@@ -4,19 +4,22 @@ Flowchart dan Penjelasan
 
 Program menghitung volume bangun ruang
 
-1.Mulai: Untuk memulai sebuah flowchart dengan simbol start
+- Mulai: Untuk memulai sebuah flowchart dengan simbol start
 
-2.Input: Untuk menjalankan sebuah operasi di masing masing rumus 
+- Input: Untuk menjalankan sebuah operasi di masing masing rumus 
 
-3.Decision: Untuk melakukan percabangan dengan proces dan percabangan lainnya
+- Decision: Untuk melakukan percabangan dengan proces dan percabangan lainnya
 
-4.Process:Memasukan rumus tiap decision seperti jari2, tinggi, alas, lebar
+- Process:Memasukan rumus tiap decision seperti jari2, tinggi, alas, lebar
 
-5.Output: Hasil dari semua percabangan 
+- Output: Hasil dari semua percabangan 
 
-6.Selesai: Untuk menyelesaikan sebuah flowchart tersebut
-
+- Selesai: Untuk menyelesaikan sebuah flowchart tersebut
+  
+================================================================
 ----------------------------------------------------------------
+================================================================
+
 Flowchart Login Sederhana
 
 ![flowchart_login drawio (1)](https://github.com/lintangbhskr/Tugas_Postest/assets/143193920/9ed16801-6e9c-479b-a1fa-312264fd964c)
@@ -24,12 +27,12 @@ Flowchart Login Sederhana
 
 Login sederhana
 
-1.Mulai: Memulai sebuah flowchart dengan simbol start
+- Mulai: Memulai sebuah flowchart dengan simbol start
 
-2.Input: Mengguna memasukan nama, nim, dan password
+- Input: Mengguna memasukan Nama, Nim, dan Password
 
-3.Decision: Untuk melakukan percabangan berhasil atau tidak nya sebuah input
+- Decision: Untuk melakukan percabangan berhasil atau tidak nya sebuah input
 
-4.Output: Apabila "Ya" login akan berhasil. sedangkan jika "Tidak" login tidak berhasil.
+- Output: Simbol input/output digambarkan dengan jajar genjang yang menggambarkan proses input atau output yang tidak tergantung pada alat. 
 
-5.Selesai: Untuk menyelesaikan sebuah flowchart tersebut
+- Selesai: Untuk menyelesaikan sebuah flowchart tersebut
