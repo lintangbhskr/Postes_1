@@ -10,8 +10,8 @@ Program menghitung volume bangun ruang
 
 3.Decision: Untuk melakukan percabangan dengan proces dan percabangan lainnya
 
-4.Process:Memasukan rumus tiap decision seperti sisi alas, sisi tegak, dan sisi miring
+4.Process:Memasukan rumus tiap decision seperti jari2, tinggi, alas, lebar
 
-5.Output: Hasil dari semua percabangan seperti sisi alas, sisi tegak, dan sisi miring
+5.Output: Hasil dari semua percabangan 
 
 6.Selesai: Untuk menyelesaikan sebuah flowchart tersebut
