@@ -15,3 +15,20 @@ Program menghitung volume bangun ruang
 5.Output: Hasil dari semua percabangan 
 
 6.Selesai: Untuk menyelesaikan sebuah flowchart tersebut
+
+----------------------------------------------------------------
+Flowchart Login Sederhana
+
+![flowchart_login drawio](https://github.com/lintangbhskr/Tugas_Postest/assets/143193920/0b8cfbbf-2d9a-4cfa-9106-c1a29cbb4f5d)
+
+Login sederhana
+
+1.Mulai: Memulai sebuah flowchart dengan simbol start
+
+2.Input: Mengguna memasukan nama, nim, dan password
+
+3.Decision: Untuk melakukan percabangan berhasil atau tidak nya sebuah input
+
+4.Output: Apabila "Ya" login akan berhasil. sedangkan jika "Tidak" login tidak berhasil.
+
+5.Selesai: Untuk menyelesaikan sebuah flowchart tersebut
